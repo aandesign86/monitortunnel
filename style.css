@@ -1,0 +1,24 @@
+body{
+background:#0b0b0b;
+color:white;
+font-family:Arial,Helvetica,sans-serif;
+margin:0;
+padding:20px;
+text-align:center;
+}
+h1{font-size:18px;margin-bottom:20px;}
+.node,.tunnel{
+margin:10px auto;
+padding:12px;
+border-radius:20px;
+max-width:360px;
+}
+.node{background:#444;}
+.tunnel{font-weight:bold;}
+.up{background:#0f0; color:#000;}
+.down{background:#f00;}
+.partial{background:#ffb300; color:#000;}
+@media (max-width:600px){
+body{padding:10px;}
+.node,.tunnel{font-size:14px;}
+}
