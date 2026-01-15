@@ -1,13 +1,13 @@
 const API_KEY = "ur3262771-ac3b8d56f4ffa3ad1ac23fb0";
 const nodes=[
-{id:"design86",x:400,y:20,w:350,h:50,t:"design86.my.id"},
+{id:"design86.my.id",x:400,y:20,w:350,h:50,t:"design86.my.id"},
 {id:"aan",x:80,y:120,w:260,h:45,t:"Aan Tunnel"},
 {id:"ckb",x:420,y:120,w:320,h:45,t:"Cakrabuana Tunnel"},
 {id:"klinik",x:820,y:120,w:260,h:45,t:"Klinik Tunnel"},
 {id:"gatewayhome",x:80,y:220,w:300,h:45,t:"gatewayhome.design86.my.id"},
 {id:"openwrt",x:80,y:280,w:300,h:45,t:"openwrt.design86.my.id"},
 {id:"cctv",x:80,y:340,w:300,h:45,t:"cctv.design86.my.id"},
-{id:"ckbgw",x:420,y:220,w:300,h:45,t:"carabuanagateway.design86.my.id"},
+{id:"carabuanagateway",x:420,y:220,w:300,h:45,t:"carabuanagateway.design86.my.id"},
 {id:"tplink",x:420,y:280,w:300,h:45,t:"tplinkckb.design86.my.id"},
 {id:"mercusis",x:420,y:340,w:300,h:45,t:"mercusisckb.design86.my.id"},
 {id:"tenda",x:420,y:400,w:300,h:45,t:"tendackb.design86.my.id"},
