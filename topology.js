@@ -7,7 +7,7 @@ const nodes=[
 {id:"gatewayhome",x:80,y:220,w:300,h:45,t:"gatewayhome.design86.my.id"},
 {id:"openwrt",x:80,y:280,w:300,h:45,t:"openwrt.design86.my.id"},
 {id:"cctv",x:80,y:340,w:300,h:45,t:"cctv.design86.my.id"},
-{id:"carabuanagateway",x:420,y:220,w:300,h:45,t:"carabuanagateway.design86.my.id"},
+{id:"cakrabuanagateway",x:420,y:220,w:300,h:45,t:"cakrabuanagateway.design86.my.id"},
 {id:"tplink",x:420,y:280,w:300,h:45,t:"tplinkckb.design86.my.id"},
 {id:"mercusis",x:420,y:340,w:300,h:45,t:"mercusisckb.design86.my.id"},
 {id:"tenda",x:420,y:400,w:300,h:45,t:"tendackb.design86.my.id"},
